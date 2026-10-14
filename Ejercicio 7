@@ -1,1 +1,24 @@
-
+<html>
+    <head>
+        <title>Dinosaurios de Santiago Serrano</title>
+    </head>
+    <body>
+        <h1>Dinosaurios</h1>
+        <b>Autor: Santiago Serrano</b>
+        <br>
+        <br>
+        <p>
+            <b><font color="blue">Nicolas:</font></b>
+            <font color="blue">Basta por favor, solo queria ayudarla</font>
+        </p>
+        <p>
+            <b><font color="red">Silvina:</font></b>
+            <font color="red">Yo me callo si no se acerca mas</font>
+        </p>
+        <p>
+            <b><font color="blue">Nicolas:</font></b>
+            <font color="blue">Esta bien, no voy a moverme</font>
+            <small><font color="gray">(cortante)</font></small>
+        </p>
+    </body>
+</html>
