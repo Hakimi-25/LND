@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Estudiando HTML / Practica 13</title>
+</head>
+<body>
+
+    <h1>Estudiando HTML:</h1>
+
+    <ul>
+        <li><a href="Practica11.html">Ver ejemplo de lista ordenada</a></li>
+        <li><a href="Practica8.html">Lenguajes a estudiar</a></li>
+        <li><a href="Practica9.html">Lenguajes a estudiar parte 2</a></li>
+    </ul>
+</body>
+</html>
